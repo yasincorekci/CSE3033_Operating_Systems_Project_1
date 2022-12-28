@@ -4,7 +4,4 @@
 
 
 
-Project Team Members
-*Busenur Yılmaz
-*Ertan Karaoğlu
-*Yasin Çörekci
+Project Team Members *Busenur Yılmaz *Ertan Karaoğlu *Yasin Çörekci
